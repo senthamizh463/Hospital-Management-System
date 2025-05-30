@@ -26,7 +26,7 @@ The Hospital Management System is designed to help manage hospital tasks like pa
 
 1. **Clone the repository:**
 
-git clone https://github.com/yourusername/basic-hospital-management.git
+git clone https://github.com/senthamizh463/Hospital-Management-System.git
 cd basic-hospital-management
 
 2. **Set up the backend:**
